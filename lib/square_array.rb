@@ -1,4 +1,3 @@
 def square_array(array)
-  puts pets[counter]
-  counter += 1
+  # your code here
 end
